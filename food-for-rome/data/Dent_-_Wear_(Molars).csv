@@ -1,0 +1,12 @@
+Wear - Numerical,Wear - Description
+"00","No information available"
+"01","Invisible/small"
+"02","Large, cusps present (pinprick dentine)"
+"03","Rounded cusp"
+"04","Flat cusp, no dentine"
+"05","Flat cusp, <1/4 dentine"
+"06",">1/4 dentine but enamel present"
+"07","Enamel on two sides of quadrant"
+"08","Enamel on one side, thick to medium"
+"09","Enamel on one side, thin"
+"10","No enamel, dentine exposure complete"

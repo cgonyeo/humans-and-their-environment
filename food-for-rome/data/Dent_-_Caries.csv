@@ -1,0 +1,9 @@
+Caries - Numerical,Caries - Description
+"0","No lesion present"
+"1","Occlusal surface"
+"2","Interproximal surface"
+"3","Smooth surface (bucc/lab, not grooves)"
+"4","Cervical caries (at CEJ but not interproximal)"
+"5","Root caries (below CEJ)"
+"6","Large caries (destruction)"
+"7","Noncarious pulp exposure"

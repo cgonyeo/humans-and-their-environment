@@ -1,0 +1,9 @@
+Present/Absent - Numerical,Present/Absent - Description
+"1","Present, not in occlusion"
+"2","Present, development completed, in occlusion"
+"3","Missing, no associated alveolar bone"
+"4","Premortem loss, missing, alveolus resorbed/ing"
+"5","Postmortem loss, missing with no alveolar resorpt"
+"6","Congenital absence, missing"
+"7","Present, damaged and unmeasureable"
+"8","Present, unobservable"
